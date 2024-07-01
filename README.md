@@ -1,4 +1,4 @@
-# input_crate
+# simple_crate
 
 A simple input handling crate for Rust.
 

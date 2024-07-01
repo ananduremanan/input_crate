@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "input_crate"
+name = "simple_input"
 version = "0.0.1"
