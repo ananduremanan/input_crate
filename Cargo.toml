@@ -5,6 +5,6 @@ authors = ["Anandhu Remanan <anandhuor1997@gmail.com>"]
 edition = "2021"
 description = "A simple input handling crate"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/ananduremanan/input_crate"
+repository = "https://github.com/ananduremanan/input_simplified"
 
 [dependencies]
