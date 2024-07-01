@@ -8,7 +8,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-input_simplified = "0.0.2"
+input_simplified = "0.0.3"
 ```
 
 ```rust
