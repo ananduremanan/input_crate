@@ -1,4 +1,4 @@
-# simple_crate
+# input_simplified
 
 A simple input handling crate for Rust.
 
@@ -8,5 +8,5 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-input_crate = "0.0.1"
+input_simplified = "0.0.1"
 ```

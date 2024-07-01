@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "simple_input"
+name = "input_simplified"
 version = "0.0.1"
